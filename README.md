@@ -72,8 +72,8 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ```
 ## OUTPUT:
+<img width="1032" height="536" alt="Screenshot 2025-09-15 140021" src="https://github.com/user-attachments/assets/3d1dcba9-6c2c-4833-b19f-ea409e7a8a0b" />
 
-![alt text](image.png)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
